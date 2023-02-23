@@ -1,0 +1,16 @@
+[10-Feb-2023 16:06:29] PHP Fatal error:  Uncaught Error: Call to undefined function location() in /home/amirhame/uberhotels.amirhameed.com/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/amirhame/uberhotels.amirhameed.com/index.php on line 2
+[10-Feb-2023 16:07:00] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/amirhame/uberhotels.amirhameed.com/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/amirhame/uberhotels.amirhameed.com/index.php on line 2
+[10-Feb-2023 16:08:01] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/amirhame/uberhotels.amirhameed.com/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/amirhame/uberhotels.amirhameed.com/index.php on line 2
+[10-Feb-2023 16:08:06] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/amirhame/uberhotels.amirhameed.com/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/amirhame/uberhotels.amirhameed.com/index.php on line 2
